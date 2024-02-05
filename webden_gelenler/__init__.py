@@ -1,0 +1,1 @@
+from .web_crawler.WebCrawler import KitapCrawler
